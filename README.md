@@ -7,7 +7,7 @@
  <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/67138d0f-a934-4625-8371-b816d562b290">
 </picture>
 
-  ![Image](https://github.com/user-attachments/assets/12933591-bcc6-47c1-93d6-071ba6c250c5)
+  ![Image](https://github.com/user-attachments/assets/22c13ff3-2223-4362-a8e8-372026035045)
 
  <img alt="YOUR-ALT-TEXT" src="https://github.com/user-attachments/assets/a6396bb3-723e-4950-991f-a33384789e6e">
 </picture>
