@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=jezabellamae&abbreviated=true)
+
 ![Image](https://github.com/user-attachments/assets/b18e0df5-b9ac-42df-a7b3-794e2f68212a)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/user-attachments/assets/67138d0f-a934-4625-8371-b816d562b290]">
