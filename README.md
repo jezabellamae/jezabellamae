@@ -27,5 +27,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jezabellamae&abbreviated=true">
+  <img src="https://komarev.com/ghpvc/?username=jezabellamae&abbreviated=true=username&label=Distant+Travelers">
 </div>
