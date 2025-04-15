@@ -25,7 +25,3 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ff01f39d-e4cf-49b0-8f7e-aa9f410d4717" alt="placeholder" width="350" height="70">
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jezabellamae&abbreviated=username&label=Distant+Travelers">
-</div>
